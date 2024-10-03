@@ -1,0 +1,12 @@
+transformers
+pytube
+torch
+torchvision
+numpy
+pandas
+matplotlib
+accelerate
+datasets
+datasets[audio]
+requests
+streamlit
