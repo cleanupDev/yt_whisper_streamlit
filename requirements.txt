@@ -2,6 +2,7 @@ transformers
 pytube
 torch
 torchvision
+torchaudio
 numpy
 pandas
 matplotlib
@@ -10,3 +11,6 @@ datasets
 datasets[audio]
 requests
 streamlit
+ollama
+openai
+python-dotenv
