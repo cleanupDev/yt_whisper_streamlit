@@ -1,5 +1,6 @@
 transformers
 pytube
+pytubefix
 torch
 torchvision
 torchaudio
